@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Threading;
-using System.Numerics;
 using Emil.GMP;
 
 namespace GCJ_Palindrome4
